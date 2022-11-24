@@ -4,7 +4,7 @@ Project criado com utilizacao de React
 
 ## 📲 Link do deploy
 
-Link do surge: slim-feather.surge.sh
+Link do surge: https://grieving-plane.surge.sh/
 
 ## 📑 Sobre o projeto
 
